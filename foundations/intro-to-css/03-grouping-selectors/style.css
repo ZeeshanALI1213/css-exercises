@@ -5,7 +5,7 @@
 .yellow-button {
     background-color: yellow;
 }
-div {
+.black-button,.yellow-button {
     font-size: 28px;
     font-family:Helvetica"times new roman", "sans-serif";
     
